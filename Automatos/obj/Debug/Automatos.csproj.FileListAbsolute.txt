@@ -1,0 +1,18 @@
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\bin\Debug\Automatos.exe.config
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\bin\Debug\Automatos.exe
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\bin\Debug\Automatos.pdb
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\obj\Debug\Automatos.csprojResolveAssemblyReference.cache
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\obj\Debug\Automatos.Form1.resources
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\obj\Debug\Automatos.Properties.Resources.resources
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\obj\Debug\Automatos.csproj.GenerateResource.Cache
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\obj\Debug\Automatos.exe
+c:\users\caio\documents\visual studio 2015\Projects\Automatos\Automatos\obj\Debug\Automatos.pdb
+C:\Users\caio\Desktop\Automatos\Automatos\bin\Debug\Automatos.exe.config
+C:\Users\caio\Desktop\Automatos\Automatos\obj\Debug\Automatos.exe
+C:\Users\caio\Desktop\Automatos\Automatos\obj\Debug\Automatos.pdb
+C:\Users\caio\Desktop\Automatos\Automatos\bin\Debug\Automatos.exe
+C:\Users\caio\Desktop\Automatos\Automatos\bin\Debug\Automatos.pdb
+C:\Users\caio\Desktop\Automatos\Automatos\obj\Debug\Automatos.csprojResolveAssemblyReference.cache
+C:\Users\caio\Desktop\Automatos\Automatos\obj\Debug\Automatos.Form1.resources
+C:\Users\caio\Desktop\Automatos\Automatos\obj\Debug\Automatos.Properties.Resources.resources
+C:\Users\caio\Desktop\Automatos\Automatos\obj\Debug\Automatos.csproj.GenerateResource.Cache
